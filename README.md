@@ -8,6 +8,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FreeInit-colab/blob/main/FreeInit_colab.ipynb) | FreeInit_colab
 
+### 📋 Tutorial
+![Screenshot 2023-12-13 201654](https://github.com/camenduru/FreeInit-colab/assets/54370274/0f4b1379-3bee-4b76-b70d-1c9dbd8b3b77)
+
 ### 🧬 Code
 https://github.com/TianxingWu/FreeInit
 
