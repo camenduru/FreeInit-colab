@@ -20,6 +20,7 @@ https://tianxingwu.github.io/pages/FreeInit/
 ### 🖼 Output
 ![1-A-cat-wearing-sunglasses-and-working-as-a-lifeguard-at](https://github.com/camenduru/FreeInit-colab/assets/54370274/fbe323ca-2277-4f78-a1de-2eb1a55c663c)
 ![0-A-panda-cooking-in-the-kitchen](https://github.com/camenduru/FreeInit-colab/assets/54370274/92d66050-206d-4b7f-948e-0b5fe488a82a)
+![3-A-robot-DJ-is-playing-the-turntable,-in-heavy-raining](https://github.com/camenduru/FreeInit-colab/assets/54370274/205c3afe-9f2b-4423-850a-8e5464f6cccc)
 
 ### 🏢 Sponsor
 https://modelslab.com
