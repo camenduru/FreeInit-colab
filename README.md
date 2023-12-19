@@ -6,6 +6,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FreeInit-colab/blob/main/FreeInit_gradio_colab.ipynb) | FreeInit_gradio_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FreeInit-colab/blob/main/FreeInit_colab.ipynb) | FreeInit_colab
 
 ### 📋 Tutorial
